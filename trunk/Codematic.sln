@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDALIBatisNetMapXML",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderWebMVC", "Builder\BuilderWebMVC\BuilderWebMVC.csproj", "{72660756-83A0-4768-913F-BB9ED585DC96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderBLLSCodeComm", "Builder\BuilderBLLSCodeComm\BuilderBLLSCodeComm.csproj", "{17CFB2D8-F1BD-490E-B49A-ED4F746DA949}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|.NET = Debug|.NET
@@ -357,6 +359,16 @@ Global
 		{72660756-83A0-4768-913F-BB9ED585DC96}.Release|Any CPU.Build.0 = Release|Any CPU
 		{72660756-83A0-4768-913F-BB9ED585DC96}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{72660756-83A0-4768-913F-BB9ED585DC96}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{17CFB2D8-F1BD-490E-B49A-ED4F746DA949}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{17CFB2D8-F1BD-490E-B49A-ED4F746DA949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CFB2D8-F1BD-490E-B49A-ED4F746DA949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CFB2D8-F1BD-490E-B49A-ED4F746DA949}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{17CFB2D8-F1BD-490E-B49A-ED4F746DA949}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{17CFB2D8-F1BD-490E-B49A-ED4F746DA949}.Release|.NET.ActiveCfg = Release|Any CPU
+		{17CFB2D8-F1BD-490E-B49A-ED4F746DA949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CFB2D8-F1BD-490E-B49A-ED4F746DA949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CFB2D8-F1BD-490E-B49A-ED4F746DA949}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{17CFB2D8-F1BD-490E-B49A-ED4F746DA949}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -375,5 +387,6 @@ Global
 		{99CE6BCE-80F4-4749-B551-C0156DC23073} = {543FA872-0A4C-4081-8A71-7269977B1B1C}
 		{60CB7D74-7627-4863-929A-35A236B18CBD} = {543FA872-0A4C-4081-8A71-7269977B1B1C}
 		{72660756-83A0-4768-913F-BB9ED585DC96} = {543FA872-0A4C-4081-8A71-7269977B1B1C}
+		{17CFB2D8-F1BD-490E-B49A-ED4F746DA949} = {543FA872-0A4C-4081-8A71-7269977B1B1C}
 	EndGlobalSection
 EndGlobal
