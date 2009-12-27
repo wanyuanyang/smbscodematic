@@ -676,11 +676,11 @@ namespace Codematic
                         try
                         {
                             Process proc = new Process();
-                            Process.Start("IExplore.exe", "http://help.maticsoft.com");
+                            Process.Start("IExplore.exe", "http://help.smbsoft.cn");
                         }
                         catch
                         {
-                            MessageBox.Show("请访问：http://www.maticsoft.com", "完成", MessageBoxButtons.OK, MessageBoxIcon.Information);                            
+                            MessageBox.Show("请访问：http://www.smbsoft.cn", "完成", MessageBoxButtons.OK, MessageBoxIcon.Information);                            
                         }
                     }
 					return;					

@@ -145,7 +145,7 @@ namespace Codematic
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(280, 23);
             this.label6.TabIndex = 6;
-            this.label6.Text = "版权所有(C) 2004 Maticsoft 。保留所有权利。";
+            this.label6.Text = "版权所有(C) 2009 SMBSOFT 。保留所有权利。";
             this.label6.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
             // 
             // txtUser

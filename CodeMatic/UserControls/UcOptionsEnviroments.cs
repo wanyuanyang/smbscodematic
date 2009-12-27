@@ -224,7 +224,7 @@ namespace Codematic.UserControls
             this.linkLabel3.Size = new System.Drawing.Size(136, 16);
             this.linkLabel3.TabIndex = 19;
             this.linkLabel3.TabStop = true;
-            this.linkLabel3.Text = "动软中国";
+            this.linkLabel3.Text = "SMBSOFT中国";
             this.linkLabel3.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel3_LinkClicked);
             // 
             // label2
@@ -265,7 +265,7 @@ namespace Codematic.UserControls
             this.linkLabel1.Size = new System.Drawing.Size(149, 12);
             this.linkLabel1.TabIndex = 15;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "http://www.maticsoft.com";
+            this.linkLabel1.Text = "http://www.smbsoft.cn";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // label7
@@ -287,7 +287,7 @@ namespace Codematic.UserControls
             this.linkLabel4.Size = new System.Drawing.Size(136, 16);
             this.linkLabel4.TabIndex = 13;
             this.linkLabel4.TabStop = true;
-            this.linkLabel4.Text = "李天平";
+            this.linkLabel4.Text = "Dragon";
             this.linkLabel4.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel4_LinkClicked);
             // 
             // label8
@@ -325,18 +325,18 @@ namespace Codematic.UserControls
         }
 		private void linkLabel4_LinkClicked(object sender, System.Windows.Forms.LinkLabelLinkClickedEventArgs e)
 		{
-            string target = "http://www.litianping.com";
+            string target = "http://www.smbsoft.cn";
             System.Diagnostics.Process.Start(target);
 		}
 
 		private void linkLabel3_LinkClicked(object sender, System.Windows.Forms.LinkLabelLinkClickedEventArgs e)
 		{
-            string target = "http://www.maticsoft.com";
+            string target = "http://www.smbsoft.cn";
             System.Diagnostics.Process.Start(target);			
 		}
 		private void linkLabel1_LinkClicked(object sender, System.Windows.Forms.LinkLabelLinkClickedEventArgs e)
 		{
-            string target = "http://www.maticsoft.com";
+            string target = "http://www.smbsoft.cn";
             System.Diagnostics.Process.Start(target);	
 		}
 		private void linkLabel5_LinkClicked(object sender, System.Windows.Forms.LinkLabelLinkClickedEventArgs e)

@@ -39,7 +39,7 @@ namespace Codematic
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            string target = "http://www.maticsoft.com/softdown.aspx";
+            string target = "http://www.smbsoft.cn/softdown.aspx";
             System.Diagnostics.Process.Start(target);
         }
 

@@ -57,8 +57,8 @@ namespace Codematic
                 mutex.Close();
                 mutex = null;
             }
-            this.Text = "动软.NET代码生成器  V" + Application.ProductVersion;
-            webBrowser1.Url = new System.Uri("http://www.maticsoft.com/codematic/count.htm?v=" + Application.ProductVersion, System.UriKind.Absolute);
+            this.Text = "SMBSOFT.NET代码生成器  V" + Application.ProductVersion;
+            webBrowser1.Url = new System.Uri("http://www.smbsoft.cn/SMBSCode/count.htm?v=" + Application.ProductVersion, System.UriKind.Absolute);
 
             #region  右侧视图浮动窗口
             /*
@@ -1167,16 +1167,16 @@ namespace Codematic
             //}
             //catch
             //{
-            //    MessageBox.Show("请访问：http://ltp.cnblogs.com", "完成", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            //    MessageBox.Show("请访问：http://s021368.cnblogs.com", "完成", MessageBoxButtons.OK, MessageBoxIcon.Information);
             //}
             try
             {
                 Process proc = new Process();
-                Process.Start("IExplore.exe", "http://help.maticsoft.com");
+                Process.Start("IExplore.exe", "http://help.smbsoft.cn");
             }
             catch
             {
-                MessageBox.Show("请访问：http://www.maticsoft.com", "完成", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("请访问：http://www.smbsoft.cn", "完成", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
@@ -1185,11 +1185,11 @@ namespace Codematic
             try
             {
                 Process proc = new Process();
-                Process.Start("IExplore.exe", "http://www.maticsoft.com");
+                Process.Start("IExplore.exe", "http://www.smbsoft.cn");
             }
             catch
             {
-                MessageBox.Show("请访问：http://www.maticsoft.com", "完成", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("请访问：http://www.smbsoft.cn", "完成", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
         private void 论坛交流ToolStripMenuItem_Click(object sender, EventArgs e)
@@ -1197,11 +1197,11 @@ namespace Codematic
             try
             {
                 Process proc = new Process();
-                Process.Start("IExplore.exe", "http://bbs.maticsoft.com");
+                Process.Start("IExplore.exe", "http://bbs.smbsoft.cn");
             }
             catch
             {
-                MessageBox.Show("请访问：http://bbs.maticsoft.com", "完成", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("请访问：http://bbs.smbsoft.cn", "完成", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
         private void 关于CodematicAToolStripMenuItem_Click(object sender, EventArgs e)

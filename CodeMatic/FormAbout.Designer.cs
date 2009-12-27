@@ -50,7 +50,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(119, 12);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Maticsoft Codematic";
+            this.label1.Text = "SMBSOFT SCodematic";
             // 
             // lblVer
             // 
@@ -70,7 +70,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(323, 12);
             this.label3.TabIndex = 0;
-            this.label3.Text = "Copyright(C) 2004-2008 Maticsoft All Rights Reserved.";
+            this.label3.Text = "Copyright(C) 2009-2010 SMBSOFT All Rights Reserved.";
             // 
             // label4
             // 
@@ -160,7 +160,7 @@
             this.MinimizeBox = false;
             this.Name = "FormAbout";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "关于 Codematic";
+            this.Text = "关于 SMBSCode";
             this.Load += new System.EventHandler(this.FormAbout_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

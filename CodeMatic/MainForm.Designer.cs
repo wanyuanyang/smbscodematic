@@ -191,7 +191,7 @@
             this.toolStripMenuItem5,
             this.退出});
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(59, 20);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(57, 20);
             this.toolStripMenuItem1.Text = "文件(&F)";
             // 
             // 新建ToolStripMenuItem
@@ -202,7 +202,7 @@
             this.toolStripMenuItem7,
             this.数据库连接SToolStripMenuItem});
             this.新建ToolStripMenuItem.Name = "新建ToolStripMenuItem";
-            this.新建ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.新建ToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.新建ToolStripMenuItem.Text = "新建(&N)";
             // 
             // 项目PToolStripMenuItem
@@ -234,38 +234,38 @@
             // 打开ToolStripMenuItem
             // 
             this.打开ToolStripMenuItem.Name = "打开ToolStripMenuItem";
-            this.打开ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.打开ToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.打开ToolStripMenuItem.Text = "打开(&O)";
             this.打开ToolStripMenuItem.Click += new System.EventHandler(this.打开ToolStripMenuItem_Click);
             // 
             // 关闭CToolStripMenuItem
             // 
             this.关闭CToolStripMenuItem.Name = "关闭CToolStripMenuItem";
-            this.关闭CToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.关闭CToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.关闭CToolStripMenuItem.Text = "关闭(&C)";
             this.关闭CToolStripMenuItem.Click += new System.EventHandler(this.关闭CToolStripMenuItem_Click);
             // 
             // toolStripMenuItem3
             // 
             this.toolStripMenuItem3.Name = "toolStripMenuItem3";
-            this.toolStripMenuItem3.Size = new System.Drawing.Size(139, 6);
+            this.toolStripMenuItem3.Size = new System.Drawing.Size(133, 6);
             // 
             // 保存为ToolStripMenuItem
             // 
             this.保存为ToolStripMenuItem.Name = "保存为ToolStripMenuItem";
-            this.保存为ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.保存为ToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.保存为ToolStripMenuItem.Text = "保存为(&S)...";
             this.保存为ToolStripMenuItem.Click += new System.EventHandler(this.保存为ToolStripMenuItem_Click);
             // 
             // toolStripMenuItem5
             // 
             this.toolStripMenuItem5.Name = "toolStripMenuItem5";
-            this.toolStripMenuItem5.Size = new System.Drawing.Size(139, 6);
+            this.toolStripMenuItem5.Size = new System.Drawing.Size(133, 6);
             // 
             // 退出
             // 
             this.退出.Name = "退出";
-            this.退出.Size = new System.Drawing.Size(142, 22);
+            this.退出.Size = new System.Drawing.Size(136, 22);
             this.退出.Text = "退出(&X)";
             this.退出.Click += new System.EventHandler(this.退出ToolStripMenuItem_Click);
             // 
@@ -286,27 +286,27 @@
             this.替换ToolStripMenuItem,
             this.转到行ToolStripMenuItem});
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-            this.toolStripMenuItem2.Size = new System.Drawing.Size(59, 20);
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(57, 20);
             this.toolStripMenuItem2.Text = "编辑(&E)";
             // 
             // 恢复ZToolStripMenuItem
             // 
             this.恢复ZToolStripMenuItem.Name = "恢复ZToolStripMenuItem";
-            this.恢复ZToolStripMenuItem.Size = new System.Drawing.Size(131, 24);
+            this.恢复ZToolStripMenuItem.Size = new System.Drawing.Size(135, 24);
             this.恢复ZToolStripMenuItem.Text = "恢复(&Z)";
             this.恢复ZToolStripMenuItem.Click += new System.EventHandler(this.恢复ZToolStripMenuItem_Click);
             // 
             // toolStripMenuItem16
             // 
             this.toolStripMenuItem16.Name = "toolStripMenuItem16";
-            this.toolStripMenuItem16.Size = new System.Drawing.Size(128, 6);
+            this.toolStripMenuItem16.Size = new System.Drawing.Size(132, 6);
             // 
             // 编辑ToolStripMenuItem
             // 
             this.编辑ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("编辑ToolStripMenuItem.Image")));
             this.编辑ToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.编辑ToolStripMenuItem.Name = "编辑ToolStripMenuItem";
-            this.编辑ToolStripMenuItem.Size = new System.Drawing.Size(131, 24);
+            this.编辑ToolStripMenuItem.Size = new System.Drawing.Size(135, 24);
             this.编辑ToolStripMenuItem.Text = "剪切(&T)";
             this.编辑ToolStripMenuItem.Click += new System.EventHandler(this.剪切ToolStripMenuItem_Click);
             // 
@@ -315,7 +315,7 @@
             this.复制ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("复制ToolStripMenuItem.Image")));
             this.复制ToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.复制ToolStripMenuItem.Name = "复制ToolStripMenuItem";
-            this.复制ToolStripMenuItem.Size = new System.Drawing.Size(131, 24);
+            this.复制ToolStripMenuItem.Size = new System.Drawing.Size(135, 24);
             this.复制ToolStripMenuItem.Text = "复制(&C)";
             this.复制ToolStripMenuItem.Click += new System.EventHandler(this.复制ToolStripMenuItem_Click);
             // 
@@ -324,7 +324,7 @@
             this.粘贴ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("粘贴ToolStripMenuItem.Image")));
             this.粘贴ToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.粘贴ToolStripMenuItem.Name = "粘贴ToolStripMenuItem";
-            this.粘贴ToolStripMenuItem.Size = new System.Drawing.Size(131, 24);
+            this.粘贴ToolStripMenuItem.Size = new System.Drawing.Size(135, 24);
             this.粘贴ToolStripMenuItem.Text = "粘贴(&P)";
             this.粘贴ToolStripMenuItem.Click += new System.EventHandler(this.粘贴ToolStripMenuItem_Click);
             // 
@@ -333,52 +333,52 @@
             this.恢复ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("恢复ToolStripMenuItem.Image")));
             this.恢复ToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.恢复ToolStripMenuItem.Name = "恢复ToolStripMenuItem";
-            this.恢复ToolStripMenuItem.Size = new System.Drawing.Size(131, 24);
+            this.恢复ToolStripMenuItem.Size = new System.Drawing.Size(135, 24);
             this.恢复ToolStripMenuItem.Text = "删除(&D)";
             this.恢复ToolStripMenuItem.Click += new System.EventHandler(this.删除ToolStripMenuItem_Click);
             // 
             // toolStripMenuItem6
             // 
             this.toolStripMenuItem6.Name = "toolStripMenuItem6";
-            this.toolStripMenuItem6.Size = new System.Drawing.Size(128, 6);
+            this.toolStripMenuItem6.Size = new System.Drawing.Size(132, 6);
             // 
             // 全选AToolStripMenuItem
             // 
             this.全选AToolStripMenuItem.Name = "全选AToolStripMenuItem";
-            this.全选AToolStripMenuItem.Size = new System.Drawing.Size(131, 24);
+            this.全选AToolStripMenuItem.Size = new System.Drawing.Size(135, 24);
             this.全选AToolStripMenuItem.Text = "全选(&A)";
             this.全选AToolStripMenuItem.Click += new System.EventHandler(this.全选AToolStripMenuItem_Click);
             // 
             // toolStripMenuItem13
             // 
             this.toolStripMenuItem13.Name = "toolStripMenuItem13";
-            this.toolStripMenuItem13.Size = new System.Drawing.Size(128, 6);
+            this.toolStripMenuItem13.Size = new System.Drawing.Size(132, 6);
             // 
             // 查找ToolStripMenuItem
             // 
             this.查找ToolStripMenuItem.Name = "查找ToolStripMenuItem";
-            this.查找ToolStripMenuItem.Size = new System.Drawing.Size(131, 24);
+            this.查找ToolStripMenuItem.Size = new System.Drawing.Size(135, 24);
             this.查找ToolStripMenuItem.Text = "查找...";
             this.查找ToolStripMenuItem.Click += new System.EventHandler(this.查找ToolStripMenuItem_Click);
             // 
             // 查找下一个ToolStripMenuItem
             // 
             this.查找下一个ToolStripMenuItem.Name = "查找下一个ToolStripMenuItem";
-            this.查找下一个ToolStripMenuItem.Size = new System.Drawing.Size(131, 24);
+            this.查找下一个ToolStripMenuItem.Size = new System.Drawing.Size(135, 24);
             this.查找下一个ToolStripMenuItem.Text = "查找下一个";
             this.查找下一个ToolStripMenuItem.Click += new System.EventHandler(this.查找下一个ToolStripMenuItem_Click);
             // 
             // 替换ToolStripMenuItem
             // 
             this.替换ToolStripMenuItem.Name = "替换ToolStripMenuItem";
-            this.替换ToolStripMenuItem.Size = new System.Drawing.Size(131, 24);
+            this.替换ToolStripMenuItem.Size = new System.Drawing.Size(135, 24);
             this.替换ToolStripMenuItem.Text = "替换";
             this.替换ToolStripMenuItem.Click += new System.EventHandler(this.替换ToolStripMenuItem_Click);
             // 
             // 转到行ToolStripMenuItem
             // 
             this.转到行ToolStripMenuItem.Name = "转到行ToolStripMenuItem";
-            this.转到行ToolStripMenuItem.Size = new System.Drawing.Size(131, 24);
+            this.转到行ToolStripMenuItem.Size = new System.Drawing.Size(135, 24);
             this.转到行ToolStripMenuItem.Text = "转到行...";
             this.转到行ToolStripMenuItem.Click += new System.EventHandler(this.转到行ToolStripMenuItem_Click);
             // 
@@ -394,7 +394,7 @@
             this.toolStripMenuItem4,
             this.起始页GToolStripMenuItem});
             this.视图VToolStripMenuItem.Name = "视图VToolStripMenuItem";
-            this.视图VToolStripMenuItem.Size = new System.Drawing.Size(59, 20);
+            this.视图VToolStripMenuItem.Size = new System.Drawing.Size(57, 20);
             this.视图VToolStripMenuItem.Text = "视图(&V)";
             // 
             // 服务器资源管理器SToolStripMenuItem
@@ -481,67 +481,67 @@
             // 打开脚本ToolStripMenuItem
             // 
             this.打开脚本ToolStripMenuItem.Name = "打开脚本ToolStripMenuItem";
-            this.打开脚本ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.打开脚本ToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.打开脚本ToolStripMenuItem.Text = "打开脚本...";
             this.打开脚本ToolStripMenuItem.Click += new System.EventHandler(this.打开脚本ToolStripMenuItem_Click);
             // 
             // 保存脚本ToolStripMenuItem
             // 
             this.保存脚本ToolStripMenuItem.Name = "保存脚本ToolStripMenuItem";
-            this.保存脚本ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.保存脚本ToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.保存脚本ToolStripMenuItem.Text = "保存脚本...";
             this.保存脚本ToolStripMenuItem.Click += new System.EventHandler(this.保存脚本ToolStripMenuItem_Click);
             // 
             // toolStripMenuItem11
             // 
             this.toolStripMenuItem11.Name = "toolStripMenuItem11";
-            this.toolStripMenuItem11.Size = new System.Drawing.Size(139, 6);
+            this.toolStripMenuItem11.Size = new System.Drawing.Size(143, 6);
             // 
             // 运行当前查询ToolStripMenuItem
             // 
             this.运行当前查询ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("运行当前查询ToolStripMenuItem.Image")));
             this.运行当前查询ToolStripMenuItem.Name = "运行当前查询ToolStripMenuItem";
-            this.运行当前查询ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.运行当前查询ToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.运行当前查询ToolStripMenuItem.Text = "运行当前查询";
             this.运行当前查询ToolStripMenuItem.Click += new System.EventHandler(this.运行当前查询ToolStripMenuItem_Click);
             // 
             // 停止查询ToolStripMenuItem
             // 
             this.停止查询ToolStripMenuItem.Name = "停止查询ToolStripMenuItem";
-            this.停止查询ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.停止查询ToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.停止查询ToolStripMenuItem.Text = "停止查询";
             this.停止查询ToolStripMenuItem.Click += new System.EventHandler(this.停止查询ToolStripMenuItem_Click);
             // 
             // 验证当前查询ToolStripMenuItem
             // 
             this.验证当前查询ToolStripMenuItem.Name = "验证当前查询ToolStripMenuItem";
-            this.验证当前查询ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.验证当前查询ToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.验证当前查询ToolStripMenuItem.Text = "验证当前查询";
             this.验证当前查询ToolStripMenuItem.Click += new System.EventHandler(this.验证当前查询ToolStripMenuItem_Click);
             // 
             // toolStripMenuItem12
             // 
             this.toolStripMenuItem12.Name = "toolStripMenuItem12";
-            this.toolStripMenuItem12.Size = new System.Drawing.Size(139, 6);
+            this.toolStripMenuItem12.Size = new System.Drawing.Size(143, 6);
             // 
             // 脚本片断管理ToolStripMenuItem
             // 
             this.脚本片断管理ToolStripMenuItem.Name = "脚本片断管理ToolStripMenuItem";
-            this.脚本片断管理ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.脚本片断管理ToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.脚本片断管理ToolStripMenuItem.Text = "脚本片断管理";
             this.脚本片断管理ToolStripMenuItem.Click += new System.EventHandler(this.脚本片断管理ToolStripMenuItem_Click);
             // 
             // 转到定义ToolStripMenuItem
             // 
             this.转到定义ToolStripMenuItem.Name = "转到定义ToolStripMenuItem";
-            this.转到定义ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.转到定义ToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.转到定义ToolStripMenuItem.Text = "转到定义";
             this.转到定义ToolStripMenuItem.Click += new System.EventHandler(this.转到定义ToolStripMenuItem_Click);
             // 
             // 转到对象引用ToolStripMenuItem
             // 
             this.转到对象引用ToolStripMenuItem.Name = "转到对象引用ToolStripMenuItem";
-            this.转到对象引用ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.转到对象引用ToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.转到对象引用ToolStripMenuItem.Text = "转到对象引用";
             this.转到对象引用ToolStripMenuItem.Click += new System.EventHandler(this.转到对象引用ToolStripMenuItem_Click);
             // 
@@ -554,21 +554,21 @@
             this.toolStripMenuItem17,
             this.对象定义ToolStripMenuItem});
             this.生成ToolStripMenuItem.Name = "生成ToolStripMenuItem";
-            this.生成ToolStripMenuItem.Size = new System.Drawing.Size(59, 20);
+            this.生成ToolStripMenuItem.Size = new System.Drawing.Size(58, 20);
             this.生成ToolStripMenuItem.Text = "生成(&C)";
             this.生成ToolStripMenuItem.Visible = false;
             // 
             // 生成数据脚本ToolStripMenuItem
             // 
             this.生成数据脚本ToolStripMenuItem.Name = "生成数据脚本ToolStripMenuItem";
-            this.生成数据脚本ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.生成数据脚本ToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.生成数据脚本ToolStripMenuItem.Text = "生成数据脚本";
             this.生成数据脚本ToolStripMenuItem.Click += new System.EventHandler(this.生成数据脚本ToolStripMenuItem_Click);
             // 
             // 生成存储过程ToolStripMenuItem
             // 
             this.生成存储过程ToolStripMenuItem.Name = "生成存储过程ToolStripMenuItem";
-            this.生成存储过程ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.生成存储过程ToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.生成存储过程ToolStripMenuItem.Text = "生成存储过程";
             this.生成存储过程ToolStripMenuItem.Click += new System.EventHandler(this.生成存储过程ToolStripMenuItem_Click);
             // 
@@ -579,39 +579,39 @@
             this.数据脚本ToolStripMenuItem,
             this.表数据ToolStripMenuItem});
             this.导出文件ToolStripMenuItem.Name = "导出文件ToolStripMenuItem";
-            this.导出文件ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.导出文件ToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.导出文件ToolStripMenuItem.Text = "导出文件";
             // 
             // 存储过程ToolStripMenuItem
             // 
             this.存储过程ToolStripMenuItem.Name = "存储过程ToolStripMenuItem";
-            this.存储过程ToolStripMenuItem.Size = new System.Drawing.Size(118, 22);
+            this.存储过程ToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
             this.存储过程ToolStripMenuItem.Text = "存储过程";
             this.存储过程ToolStripMenuItem.Click += new System.EventHandler(this.存储过程ToolStripMenuItem_Click);
             // 
             // 数据脚本ToolStripMenuItem
             // 
             this.数据脚本ToolStripMenuItem.Name = "数据脚本ToolStripMenuItem";
-            this.数据脚本ToolStripMenuItem.Size = new System.Drawing.Size(118, 22);
+            this.数据脚本ToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
             this.数据脚本ToolStripMenuItem.Text = "数据脚本";
             this.数据脚本ToolStripMenuItem.Click += new System.EventHandler(this.数据脚本ToolStripMenuItem_Click);
             // 
             // 表数据ToolStripMenuItem
             // 
             this.表数据ToolStripMenuItem.Name = "表数据ToolStripMenuItem";
-            this.表数据ToolStripMenuItem.Size = new System.Drawing.Size(118, 22);
+            this.表数据ToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
             this.表数据ToolStripMenuItem.Text = "表数据";
             this.表数据ToolStripMenuItem.Click += new System.EventHandler(this.表数据ToolStripMenuItem_Click);
             // 
             // toolStripMenuItem17
             // 
             this.toolStripMenuItem17.Name = "toolStripMenuItem17";
-            this.toolStripMenuItem17.Size = new System.Drawing.Size(139, 6);
+            this.toolStripMenuItem17.Size = new System.Drawing.Size(143, 6);
             // 
             // 对象定义ToolStripMenuItem
             // 
             this.对象定义ToolStripMenuItem.Name = "对象定义ToolStripMenuItem";
-            this.对象定义ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.对象定义ToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.对象定义ToolStripMenuItem.Text = "对象定义";
             this.对象定义ToolStripMenuItem.Click += new System.EventHandler(this.对象定义ToolStripMenuItem_Click);
             // 
@@ -631,14 +631,14 @@
             this.toolStripMenuItem10,
             this.选项OToolStripMenuItem});
             this.工具TToolStripMenuItem.Name = "工具TToolStripMenuItem";
-            this.工具TToolStripMenuItem.Size = new System.Drawing.Size(59, 20);
+            this.工具TToolStripMenuItem.Size = new System.Drawing.Size(57, 20);
             this.工具TToolStripMenuItem.Text = "工具(&T)";
             // 
             // 数据库管理器ToolStripMenuItem
             // 
             this.数据库管理器ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("数据库管理器ToolStripMenuItem.Image")));
             this.数据库管理器ToolStripMenuItem.Name = "数据库管理器ToolStripMenuItem";
-            this.数据库管理器ToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.数据库管理器ToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.数据库管理器ToolStripMenuItem.Text = "数据库管理器";
             this.数据库管理器ToolStripMenuItem.Click += new System.EventHandler(this.数据库管理器ToolStripMenuItem_Click);
             // 
@@ -646,7 +646,7 @@
             // 
             this.查询分析器ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("查询分析器ToolStripMenuItem.Image")));
             this.查询分析器ToolStripMenuItem.Name = "查询分析器ToolStripMenuItem";
-            this.查询分析器ToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.查询分析器ToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.查询分析器ToolStripMenuItem.Text = "查询分析器";
             this.查询分析器ToolStripMenuItem.Click += new System.EventHandler(this.查询分析器ToolStripMenuItem_Click);
             // 
@@ -654,20 +654,20 @@
             // 
             this.dB脚本生成器ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("dB脚本生成器ToolStripMenuItem.Image")));
             this.dB脚本生成器ToolStripMenuItem.Name = "dB脚本生成器ToolStripMenuItem";
-            this.dB脚本生成器ToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.dB脚本生成器ToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.dB脚本生成器ToolStripMenuItem.Text = "DB脚本生成器";
             this.dB脚本生成器ToolStripMenuItem.Click += new System.EventHandler(this.dB脚本生成器ToolStripMenuItem_Click);
             // 
             // toolStripMenuItem9
             // 
             this.toolStripMenuItem9.Name = "toolStripMenuItem9";
-            this.toolStripMenuItem9.Size = new System.Drawing.Size(151, 6);
+            this.toolStripMenuItem9.Size = new System.Drawing.Size(155, 6);
             // 
             // 代码生成器ToolStripMenuItem
             // 
             this.代码生成器ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("代码生成器ToolStripMenuItem.Image")));
             this.代码生成器ToolStripMenuItem.Name = "代码生成器ToolStripMenuItem";
-            this.代码生成器ToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.代码生成器ToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.代码生成器ToolStripMenuItem.Text = "代码生成器";
             this.代码生成器ToolStripMenuItem.Click += new System.EventHandler(this.代码生成器ToolStripMenuItem_Click);
             // 
@@ -675,14 +675,14 @@
             // 
             this.代码自动输出器ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("代码自动输出器ToolStripMenuItem.Image")));
             this.代码自动输出器ToolStripMenuItem.Name = "代码自动输出器ToolStripMenuItem";
-            this.代码自动输出器ToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.代码自动输出器ToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.代码自动输出器ToolStripMenuItem.Text = "代码批量生成器";
             this.代码自动输出器ToolStripMenuItem.Click += new System.EventHandler(this.代码自动输出器ToolStripMenuItem_Click);
             // 
             // 模版代码生成器ToolStripMenuItem
             // 
             this.模版代码生成器ToolStripMenuItem.Name = "模版代码生成器ToolStripMenuItem";
-            this.模版代码生成器ToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.模版代码生成器ToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.模版代码生成器ToolStripMenuItem.Text = "模版代码生成器";
             this.模版代码生成器ToolStripMenuItem.Click += new System.EventHandler(this.模版代码生成器ToolStripMenuItem_Click);
             // 
@@ -690,14 +690,14 @@
             // 
             this.生成数据库文档ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("生成数据库文档ToolStripMenuItem.Image")));
             this.生成数据库文档ToolStripMenuItem.Name = "生成数据库文档ToolStripMenuItem";
-            this.生成数据库文档ToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.生成数据库文档ToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.生成数据库文档ToolStripMenuItem.Text = "生成数据库文档";
             this.生成数据库文档ToolStripMenuItem.Click += new System.EventHandler(this.生成数据库文档ToolStripMenuItem_Click);
             // 
             // c代码转换ToolStripMenuItem
             // 
             this.c代码转换ToolStripMenuItem.Name = "c代码转换ToolStripMenuItem";
-            this.c代码转换ToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.c代码转换ToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.c代码转换ToolStripMenuItem.Text = "C#代码转换";
             this.c代码转换ToolStripMenuItem.Click += new System.EventHandler(this.c代码转换ToolStripMenuItem_Click);
             // 
@@ -705,20 +705,20 @@
             // 
             this.wEB项目发布ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("wEB项目发布ToolStripMenuItem.Image")));
             this.wEB项目发布ToolStripMenuItem.Name = "wEB项目发布ToolStripMenuItem";
-            this.wEB项目发布ToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.wEB项目发布ToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.wEB项目发布ToolStripMenuItem.Text = "WEB项目发布";
             this.wEB项目发布ToolStripMenuItem.Click += new System.EventHandler(this.wEB项目发布ToolStripMenuItem_Click);
             // 
             // toolStripMenuItem10
             // 
             this.toolStripMenuItem10.Name = "toolStripMenuItem10";
-            this.toolStripMenuItem10.Size = new System.Drawing.Size(151, 6);
+            this.toolStripMenuItem10.Size = new System.Drawing.Size(155, 6);
             // 
             // 选项OToolStripMenuItem
             // 
             this.选项OToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("选项OToolStripMenuItem.Image")));
             this.选项OToolStripMenuItem.Name = "选项OToolStripMenuItem";
-            this.选项OToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.选项OToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.选项OToolStripMenuItem.Text = "选项(&O)...";
             this.选项OToolStripMenuItem.Click += new System.EventHandler(this.选项OToolStripMenuItem_Click);
             // 
@@ -731,40 +731,40 @@
             this.重置窗口布局ToolStripMenuItem,
             this.toolStripMenuItem14});
             this.窗口WToolStripMenuItem.Name = "窗口WToolStripMenuItem";
-            this.窗口WToolStripMenuItem.Size = new System.Drawing.Size(59, 20);
+            this.窗口WToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
             this.窗口WToolStripMenuItem.Text = "窗口(&W)";
             this.窗口WToolStripMenuItem.Click += new System.EventHandler(this.窗口WToolStripMenuItem_Click);
             // 
             // 显示结果窗口ToolStripMenuItem
             // 
             this.显示结果窗口ToolStripMenuItem.Name = "显示结果窗口ToolStripMenuItem";
-            this.显示结果窗口ToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.显示结果窗口ToolStripMenuItem.Size = new System.Drawing.Size(161, 22);
             this.显示结果窗口ToolStripMenuItem.Text = "显示结果窗口";
             this.显示结果窗口ToolStripMenuItem.Click += new System.EventHandler(this.显示结果窗口ToolStripMenuItem_Click);
             // 
             // toolStripMenuItem8
             // 
             this.toolStripMenuItem8.Name = "toolStripMenuItem8";
-            this.toolStripMenuItem8.Size = new System.Drawing.Size(157, 6);
+            this.toolStripMenuItem8.Size = new System.Drawing.Size(158, 6);
             // 
             // 关闭所有文档LToolStripMenuItem
             // 
             this.关闭所有文档LToolStripMenuItem.Name = "关闭所有文档LToolStripMenuItem";
-            this.关闭所有文档LToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.关闭所有文档LToolStripMenuItem.Size = new System.Drawing.Size(161, 22);
             this.关闭所有文档LToolStripMenuItem.Text = "关闭所有文档(&L)";
             this.关闭所有文档LToolStripMenuItem.Click += new System.EventHandler(this.关闭所有文档LToolStripMenuItem_Click);
             // 
             // 重置窗口布局ToolStripMenuItem
             // 
             this.重置窗口布局ToolStripMenuItem.Name = "重置窗口布局ToolStripMenuItem";
-            this.重置窗口布局ToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.重置窗口布局ToolStripMenuItem.Size = new System.Drawing.Size(161, 22);
             this.重置窗口布局ToolStripMenuItem.Text = "重置窗口布局(&R)";
             this.重置窗口布局ToolStripMenuItem.Click += new System.EventHandler(this.重置窗口布局ToolStripMenuItem_Click);
             // 
             // toolStripMenuItem14
             // 
             this.toolStripMenuItem14.Name = "toolStripMenuItem14";
-            this.toolStripMenuItem14.Size = new System.Drawing.Size(157, 6);
+            this.toolStripMenuItem14.Size = new System.Drawing.Size(158, 6);
             // 
             // 帮助HToolStripMenuItem
             // 
@@ -775,41 +775,41 @@
             this.toolStripMenuItem15,
             this.关于CodematicAToolStripMenuItem});
             this.帮助HToolStripMenuItem.Name = "帮助HToolStripMenuItem";
-            this.帮助HToolStripMenuItem.Size = new System.Drawing.Size(59, 20);
+            this.帮助HToolStripMenuItem.Size = new System.Drawing.Size(58, 20);
             this.帮助HToolStripMenuItem.Text = "帮助(&H)";
             // 
             // 主题ToolStripMenuItem
             // 
             this.主题ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("主题ToolStripMenuItem.Image")));
             this.主题ToolStripMenuItem.Name = "主题ToolStripMenuItem";
-            this.主题ToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
+            this.主题ToolStripMenuItem.Size = new System.Drawing.Size(168, 22);
             this.主题ToolStripMenuItem.Text = "在线帮助";
             this.主题ToolStripMenuItem.Click += new System.EventHandler(this.主题ToolStripMenuItem_Click);
             // 
             // 论坛交流ToolStripMenuItem
             // 
             this.论坛交流ToolStripMenuItem.Name = "论坛交流ToolStripMenuItem";
-            this.论坛交流ToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
+            this.论坛交流ToolStripMenuItem.Size = new System.Drawing.Size(168, 22);
             this.论坛交流ToolStripMenuItem.Text = "论坛交流";
             this.论坛交流ToolStripMenuItem.Click += new System.EventHandler(this.论坛交流ToolStripMenuItem_Click);
             // 
             // 访问Maticsoft站点NToolStripMenuItem
             // 
             this.访问Maticsoft站点NToolStripMenuItem.Name = "访问Maticsoft站点NToolStripMenuItem";
-            this.访问Maticsoft站点NToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
-            this.访问Maticsoft站点NToolStripMenuItem.Text = "访问Maticsoft站点";
+            this.访问Maticsoft站点NToolStripMenuItem.Size = new System.Drawing.Size(168, 22);
+            this.访问Maticsoft站点NToolStripMenuItem.Text = "访问SMBSOFT站点";
             this.访问Maticsoft站点NToolStripMenuItem.Click += new System.EventHandler(this.访问Maticsoft站点NToolStripMenuItem_Click);
             // 
             // toolStripMenuItem15
             // 
             this.toolStripMenuItem15.Name = "toolStripMenuItem15";
-            this.toolStripMenuItem15.Size = new System.Drawing.Size(169, 6);
+            this.toolStripMenuItem15.Size = new System.Drawing.Size(165, 6);
             // 
             // 关于CodematicAToolStripMenuItem
             // 
             this.关于CodematicAToolStripMenuItem.Name = "关于CodematicAToolStripMenuItem";
-            this.关于CodematicAToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
-            this.关于CodematicAToolStripMenuItem.Text = "关于Codematic(&A)";
+            this.关于CodematicAToolStripMenuItem.Size = new System.Drawing.Size(168, 22);
+            this.关于CodematicAToolStripMenuItem.Text = "关于SMBSCode(&A)";
             this.关于CodematicAToolStripMenuItem.Click += new System.EventHandler(this.关于CodematicAToolStripMenuItem_Click);
             // 
             // ToolbarMain
@@ -929,7 +929,7 @@
             this.toolBtn_SQLExe.Image = ((System.Drawing.Image)(resources.GetObject("toolBtn_SQLExe.Image")));
             this.toolBtn_SQLExe.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolBtn_SQLExe.Name = "toolBtn_SQLExe";
-            this.toolBtn_SQLExe.Size = new System.Drawing.Size(85, 22);
+            this.toolBtn_SQLExe.Size = new System.Drawing.Size(84, 22);
             this.toolBtn_SQLExe.Text = "执行SQL(&X)";
             this.toolBtn_SQLExe.Visible = false;
             this.toolBtn_SQLExe.Click += new System.EventHandler(this.toolBtn_SQLExe_Click);
@@ -939,7 +939,7 @@
             this.toolBtn_Run.Image = ((System.Drawing.Image)(resources.GetObject("toolBtn_Run.Image")));
             this.toolBtn_Run.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolBtn_Run.Name = "toolBtn_Run";
-            this.toolBtn_Run.Size = new System.Drawing.Size(91, 22);
+            this.toolBtn_Run.Size = new System.Drawing.Size(89, 22);
             this.toolBtn_Run.Text = "生成代码(&B)";
             this.toolBtn_Run.Visible = false;
             this.toolBtn_Run.Click += new System.EventHandler(this.toolBtn_Run_Click);
@@ -1014,7 +1014,7 @@
             this.tabControlMain.PositionTop = true;
             this.tabControlMain.ShowArrows = true;
             this.tabControlMain.ShowClose = true;
-            this.tabControlMain.Size = new System.Drawing.Size(695, 375);
+            this.tabControlMain.Size = new System.Drawing.Size(695, 412);
             this.tabControlMain.TabIndex = 7;
             this.tabControlMain.ClosePressed += new System.EventHandler(this.OnColseSelected);
             // 
@@ -1024,7 +1024,7 @@
             this.StatusLabel1,
             this.StatusLabel2,
             this.StatusLabel3});
-            this.statusBar.Location = new System.Drawing.Point(0, 424);
+            this.statusBar.Location = new System.Drawing.Point(0, 461);
             this.statusBar.Name = "statusBar";
             this.statusBar.Size = new System.Drawing.Size(695, 22);
             this.statusBar.TabIndex = 9;
@@ -1082,20 +1082,20 @@
             // 
             // webBrowser1
             // 
-            this.webBrowser1.Location = new System.Drawing.Point(665, 26);
-            this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
+            this.webBrowser1.Location = new System.Drawing.Point(665, 28);
+            this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 22);
             this.webBrowser1.Name = "webBrowser1";
             this.webBrowser1.ScrollBarsEnabled = false;
-            this.webBrowser1.Size = new System.Drawing.Size(25, 20);
+            this.webBrowser1.Size = new System.Drawing.Size(25, 22);
             this.webBrowser1.TabIndex = 11;
-            this.webBrowser1.Url = new System.Uri("http://www.maticsoft.com/codematic/count.htm", System.UriKind.Absolute);
+            this.webBrowser1.Url = new System.Uri("http://www.smbsoft.cn/SMBSCode/count.htm", System.UriKind.Absolute);
             this.webBrowser1.Visible = false;
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(695, 446);
+            this.ClientSize = new System.Drawing.Size(695, 483);
             this.Controls.Add(this.webBrowser1);
             this.Controls.Add(this.tabControlMain);
             this.Controls.Add(this.statusBar);
@@ -1106,7 +1106,7 @@
             this.MainMenuStrip = this.MenuMain;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "动软.NET代码生成器";
+            this.Text = "SMBSOFT.NET代码生成器";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.MenuMain.ResumeLayout(false);
             this.MenuMain.PerformLayout();
