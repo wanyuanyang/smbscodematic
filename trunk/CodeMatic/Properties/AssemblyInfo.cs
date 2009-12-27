@@ -3,13 +3,13 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // 有关程序集的常规信息通过下列属性集控制。更改这些属性值可修改与程序集关联的信息。
-[assembly: AssemblyTitle("动软.Net代码生成器")]
-[assembly: AssemblyProduct("动软.Net代码生成器")]
-[assembly: AssemblyDescription("20090606")]
+[assembly: AssemblyTitle("SMBSCodematic")]
+[assembly: AssemblyProduct("SMBSCodematic")]
+[assembly: AssemblyDescription("20091227")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Maticsoft")]
+[assembly: AssemblyCompany("SMBSOFT")]
 
-[assembly: AssemblyCopyright("版权所有 (C) Maticsoft 2004-2010")]
+[assembly: AssemblyCopyright("Copyright (C) SMBSOFT 2009-2010")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

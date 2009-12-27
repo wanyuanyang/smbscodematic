@@ -206,10 +206,10 @@
   </wsdl:binding>
   <wsdl:service name="UpServer">
     <wsdl:port name="UpServerSoap" binding="tns:UpServerSoap">
-      <soap:address location="http://www.maticsoft.com/upserver.asmx" />
+      <soap:address location="http://www.smbsoft.cn/upserver.asmx" />
     </wsdl:port>
     <wsdl:port name="UpServerSoap12" binding="tns:UpServerSoap12">
-      <soap12:address location="http://www.maticsoft.com/upserver.asmx" />
+      <soap12:address location="http://www.smbsoft.cn/upserver.asmx" />
     </wsdl:port>
   </wsdl:service>
 </wsdl:definitions>
