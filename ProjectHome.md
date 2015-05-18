@@ -1,0 +1,1 @@
+Dynamic generate code, SCode meaning simple coding.Create by Dragon.
